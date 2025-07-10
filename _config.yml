@@ -5,7 +5,7 @@ baseurl: "" # 루트 도메인일 때
 author:
   name: "3veryday"
   bio: "3veryday 개발."
-  avatar: "/assets/images/profile.png"
+  avatar: "/assets/images/profile_haru.png"
 remote_theme: mmistakes/minimal-mistakes
 
 plugins:
