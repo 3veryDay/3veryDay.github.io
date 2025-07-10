@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: default
 title: "3veryday of Our Lives"
 header:
   overlay_image: /assets/images/london.jpeg
