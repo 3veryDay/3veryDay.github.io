@@ -9,6 +9,6 @@ header:
   actions:
     - label: "See the template here"
       url: "https://github.com/mmistakes/minimal-mistakes"
-    show_nav: true
+  show_nav: true
 ---
 {% include feature_row id="intro" type="center" %}
