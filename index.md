@@ -12,5 +12,3 @@ header:
 ---
 
 {% include feature_row id="intro" %}
-
-{% include feature_row %}
