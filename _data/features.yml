@@ -1,0 +1,10 @@
+intro:
+  - image_path: /assets/images/feature1.svg
+    title: "About me "
+    excerpt: "-"
+  - image_path: /assets/images/feature2.svg
+    title: "Projects"
+    excerpt: "-"
+  - image_path: /assets/images/feature3.svg
+    title: "Resume"
+    excerpt: "-"
