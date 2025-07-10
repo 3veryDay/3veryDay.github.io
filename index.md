@@ -1,8 +1,16 @@
 ---
-layout: home
-author_profile: true
+layout: splash
+title: "3veryday of Our Lives"
+header:
+  overlay_image: /assets/images/hero.jpg
+  overlay_filter: 0.3
+  overlay_color: "#000"
+  caption: "3veryday Developing"
+  actions:
+    - label: "See the template here"
+      url: "https://github.com/mmistakes/minimal-mistakes"
 ---
 
-# Welcome!
+{% include feature_row id="intro" %}
 
-여기는 Minimal Mistakes로 만든 3veryday의 블로그입니다.
+{% include feature_row %}
