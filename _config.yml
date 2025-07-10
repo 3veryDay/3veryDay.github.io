@@ -1,0 +1,9 @@
+title: 3veryday
+description: Of our lives. We have to hold on tight, 
+url: "https://3veryday.github.io"
+baseurl: "" # 루트 도메인일 때
+
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-include-cache
