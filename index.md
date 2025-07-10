@@ -10,5 +10,4 @@ header:
     - label: "See the template here"
       url: "https://github.com/mmistakes/minimal-mistakes"
 ---
-
-{% include feature_row id="intro" %}
+{% include feature_row %}
