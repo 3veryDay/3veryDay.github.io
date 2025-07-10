@@ -10,15 +10,5 @@ remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-include-cache
-
-
-header:
-  navigation:
-    - title: "Home"
-      url: "/"
-    - title: "About"
-      url: "/about/"
-    - title: "Projects"
-      url: "/projects/"
-    - title: "Resume"
-      url: "/resume/"
+main:
+  navigation: navigation
