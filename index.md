@@ -11,4 +11,7 @@ header:
       url: "https://github.com/mmistakes/minimal-mistakes"
   show_nav: true
 ---
+
+{% include masthead.html %}
+
 {% include feature_row id="intro" type="center" %}
